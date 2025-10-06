@@ -1,0 +1,15 @@
+Login:
+-verificacion de usuario, crea el jwt y lo manda al cliente
+
+
+
+Notificaciones:
+-periodicamente cada x minutos tiene una lista de nofificaciones como usuarios que se han creado, modificaciones que se han de hacer en la base de datos, posible errores de coherencia
+avisos de cambiar el adeudo porque alguien pasa de infantil a adulto etc... Cuando se haga la peticion se devuelve una lista.
+
+
+
+Economia:
+-un endpoint que me devuelva el resumen del eejrcicio de el año actual y del año anterior para que cualquiera pueda verlo
+- un endmoint que me diga si tiene permisos para ver Movimientos, facturas, Subvencviones y organizaciones para cuando se redirija a la pagina
+
